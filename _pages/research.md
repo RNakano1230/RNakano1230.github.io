@@ -4,20 +4,19 @@ title: "Research"
 author_profile: true
 ---
 
-Throughout my research activities, I aim to solve technologically and scientifically challenging problems
-by exploring various engineering techniques.
+Through my research, I aim to solve technologically and
+scientifically challenging problems. I explore various engineering techniques
+to further advance our knowledge and understanding of space.
 
 ## Current Projects
-first
-
-second
-
-third
-
+{% include base_path %}
+{% assign ordered_pages = site.research | sort:"order_number" %}
+{% for post in ordered_pages %}
+    {% include archive-research.html %}
+{% endfor %}
 
 ## Past Projects
-first
 
-second
+### Development of a 3D-printed electric propulsion device for small satellites
 
-third
+### Marsbee project

@@ -1,26 +1,27 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
 ---
 
 I am a Ph.D. student in the [Department of Aerospace Engineering](https://eng.auburn.edu/aero/)
 at [Auburn University](http://www.auburn.edu/).
 I am affiliated with the [STAR Lab](http://eng.auburn.edu/~mzh0114/index.html)
-led by Dr. Toshi Hirabayashi. I obtained my B.S. degree in Aerospace Engineering from
+led by Dr. Toshi Hirabayashi. I am currently supported by
+[Presidential Graduate Research Fellowship](http://graduate.auburn.edu/au-presidential-graduate-research-fellowships/).
+I obtained my B.S. degree in Aerospace Engineering from
 [The University of Alabama in Huntsville](https://www.uah.edu/) in 2019.
 
+<!-- I am a [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow since 2022. -->
+
 My current research looks at structural, thermophysical, and dynamical evolutions of
-various objects in the Solar System -- from a few tens of meter small bodies to
+various objects in the Solar System -- from a few tens of meter small asteroids to
 larger bodies such as the Moon. I am also working on NASA [DART](https://dart.jhuapl.edu/)
 planetary defense mission. My previous research includes development and testing of
 electric propulsion devices for small satellites as well as modeling of
 aerodynamics and flight dynamics of small flapping-wing vehicles for Mars exploration.
-For more detail, please visit [Research](research).
 
 
 Research Interests
@@ -31,7 +32,7 @@ in the Solar System.
 
 I have been establishing unique techniques to better understand small bodies'
 **structural conditions** and **dynamical evolutions** due to, for example,
-**shape deformation** or **thermal imbalance** (known as
+**shape deformation** or **thermal imbalance** (known as the
 [Yarkovsky](https://en.wikipedia.org/wiki/Yarkovsky_effect) and
 [YORP](https://en.wikipedia.org/wiki/Yarkovsky%E2%80%93O%27Keefe%E2%80%93Radzievskii%E2%80%93Paddack_effect) effects).
 I also investigate **trajectory design** and **optimization** for interplanetary
@@ -47,10 +48,16 @@ News
 <details open>
 	<summary>2021</summary>
       <ul>
+        <li>June: <strong>I am selected for the Future Investigators in NASA
+            Earth and Space Science and Technology,
+            <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">
+            FINESST</a>.
+            Total of $135,000 funding support for the investigation of binary
+            asteroids' dynamical evolution due to Binary-YORP effect.</strong>
+            </li>
         <li>June: Submitted an extended abstract titled
             "Time-Optimal and Fuel-Optimal Trajectories for Asteroid Landing
-             via Indirect Optimization" by <strong>Nakano R.</strong>,
-             Hirabayashi M., and Taheri E. to the AIAA SciTech Forum 2022
+             via Indirect Optimization" by <strong>Nakano R.</strong>, Taheri E., and Hirabayashi M. to the AIAA SciTech Forum 2022
              (<a href="https://www.aiaa.org/SciTech">SciTech2022</a>).
              </li>
         <li>May: Submitted a conference abstract titled
@@ -58,6 +65,7 @@ News
             - An application of FEM approach thermophysical model" by
             <strong>Nakano R.</strong> and Hirabayashi M. to the Europlanet
             Science Congress 2021 (<a href="https://www.epsc2021.eu/home.html">EPSC2021</a>).
+            <strong>Accepted for presentation!</strong>
             </li>
         <li>April: Submitted a conference abstract titled
             "FINITE ELEMENT MODELING APPROACH THERMOPHYSICAL MODEL TO
@@ -101,7 +109,7 @@ News
             online!
             </li>
         <li>June: A journal paper titled "Spin-driven evolution of asteroids’
-            top-shapes at fast and slow spins as seen from(101955) Bennu and
+            top-shapes at fast and slow spins as seen from (101955) Bennu and
             (162173) Ryugu" by Hirabayashi M., <strong>Nakano R.</strong>,
     	    and 15 other authors is <strong>accepted for publication in Icarus!</strong>
             </li>
