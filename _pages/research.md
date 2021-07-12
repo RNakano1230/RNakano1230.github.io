@@ -18,4 +18,4 @@ exploring various engineering techniques.
 
 ### Development of a 3D-printed electric propulsion device for small satellites
 
-### Marsbee project
+### NIAC - Marsbee project
