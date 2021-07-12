@@ -11,9 +11,9 @@ title                    : "Ryota Nakano"
 title_separator          : "-"
 name                     : &name "Ryota Nakano"
 description              : &description "personal description"
-url                      : https://nry1230.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://RNakano1230.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nry1230.github.io"
+repository               : "RNakano1230.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=U5zsDggAAAAJ&hl=en"
   orcid            : "http://orcid.org/0000-0002-9840-2416"
   researchgate     : "https://www.researchgate.net/profile/Ryota-Nakano-3"
-  github           : "nry1230"
+  github           : "RNakano1230"
   linkedin         : "ryotanakano"
   employer         :
   pubmed           :
@@ -121,6 +121,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - _publications
+  - _research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -178,8 +180,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-
-collections:
   research:
     output: true
     permalink: /:collection/:path/
@@ -194,6 +194,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # _software
   - scope:
       path: ""
@@ -209,6 +210,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # _research
   - scope:
       path: ""
@@ -216,6 +218,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
 
 # Sass/SCSS
 sass:
