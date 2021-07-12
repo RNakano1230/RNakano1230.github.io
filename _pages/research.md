@@ -4,9 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
-Through my research, I aim to solve technologically and
-scientifically challenging problems. I explore various engineering techniques
-to further advance our knowledge and understanding of space.
+I aim to solve technologically and scientifically challenging problems by
+exploring various engineering techniques.
 
 ## Current Projects
 {% include base_path %}
