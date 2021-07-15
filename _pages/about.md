@@ -48,6 +48,13 @@ News
 <details open>
 	<summary>2021</summary>
       <ul>
+	<li>July: <strong>My <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">FINESST</a>
+            award was <a href="https://eng.auburn.edu/news/2021/07/nakano-finesst-award.html">featured</a> on the university website!</strong>
+            </li>
+	<li>July: Submitted a journal paper titled "Active Main-Belt Asteroid (6478) Gault - Constraint on Its Cohesive Strength and
+            the Fate of Ejected Particles in the Solar System" by Jackson P.M.,
+            <strong>Nakano R.</strong>, Kim Y., and Hirabayashi M. to ApJL!
+	    </li>
         <li>June: <strong>I am selected for the Future Investigators in NASA
             Earth and Space Science and Technology,
             <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">
@@ -133,7 +140,7 @@ News
 	        <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab7d36">available</a>
             online!
             </li>
-        <li>March: The journal paper titled "Mass-shedding Activities of
+        <li>March: A journal paper titled "Mass-shedding Activities of
             Asteroid (3200) Phaethon Enhanced by Its Rotation" is <strong>
             accepted for publication in ApJL!</strong>
             </li>
