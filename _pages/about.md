@@ -48,13 +48,19 @@ News
 <details open>
 	<summary>2021</summary>
       <ul>
-	<li>July: <strong>My <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">FINESST</a>
+        <li>July: Presented a poster titled
+            "FINITE ELEMENT MODELING APPROACH THERMOPHYSICAL MODEL TO
+            CHARACTERIZE IRREGULARLY SHAPED BODIES' TEMPERATURE VARIATION" by
+            <strong>Nakano R.</strong> and Hirabayashi M. at the NASA Exploration
+            Science Forum 2021 (<a href="https://lunarscience.arc.nasa.gov/nesfels2021/">NESF2021</a>).
+            </li>
+        <li>July: <strong>My <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">FINESST</a>
             award was <a href="https://eng.auburn.edu/news/2021/07/nakano-finesst-award.html">featured</a> on the university website!</strong>
             </li>
-	<li>July: Submitted a journal paper titled "Active Main-Belt Asteroid (6478) Gault - Constraint on Its Cohesive Strength and
+        <li>July: Submitted a journal paper titled "Active Main-Belt Asteroid (6478) Gault - Constraint on Its Cohesive Strength and
             the Fate of Ejected Particles in the Solar System" by Jackson P.M.,
-            <strong>Nakano R.</strong>, Kim Y., and Hirabayashi M. to ApJL!
-	    </li>
+            <strong>Nakano R.</strong>, Kim Y., and Hirabayashi M. to PSJ!
+            </li>
         <li>June: <strong>I am selected for the Future Investigators in NASA
             Earth and Space Science and Technology,
             <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect">
@@ -73,12 +79,6 @@ News
             <strong>Nakano R.</strong> and Hirabayashi M. to the Europlanet
             Science Congress 2021 (<a href="https://www.epsc2021.eu/home.html">EPSC2021</a>).
             <strong>Accepted for presentation!</strong>
-            </li>
-        <li>April: Submitted a conference abstract titled
-            "FINITE ELEMENT MODELING APPROACH THERMOPHYSICAL MODEL TO
-            CHARACTERIZE IRREGULARLY SHAPED BODIES' TEMPERATURE VARIATION" by
-            <strong>Nakano R.</strong> and Hirabayashi M. to the NASA Exploration
-            Science Forum 2021 (<a href="https://lunarscience.arc.nasa.gov/nesfels2021/">NESF2021</a>).
             </li>
         <li>March: <strong>I passed my Qualifying Exam!</strong>
             </li>
@@ -163,7 +163,7 @@ News
 	<summary>2019</summary>
       <ul>
         <li>August: <strong>Started my Ph.D. program</strong> in the Department of
-            Aerospace Engineering at Auburn University and <strong>joined STAR Lab</strong>
+            Aerospace Engineering at Auburn University and <strong>joined the STAR Lab</strong>
             led by Dr. Toshi Hirabayashi!
             </li>
         <li>May: Graduated from The University of Alabama in Huntsville
