@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-I aim to solve technologically and scientifically challenging problems by
+I aim to solve scientifically and technologically challenging problems by
 exploring various engineering techniques.
 
 ## Current Projects

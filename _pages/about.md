@@ -9,12 +9,10 @@ redirect_from:
 I am a Ph.D. student in the [Department of Aerospace Engineering](https://eng.auburn.edu/aero/)
 at [Auburn University](http://www.auburn.edu/).
 I am affiliated with the [STAR Lab](http://eng.auburn.edu/~mzh0114/index.html)
-led by Dr. Toshi Hirabayashi, and currently supported by
-[Presidential Graduate Research Fellowship](http://graduate.auburn.edu/au-presidential-graduate-research-fellowships/).
+led by Dr. Toshi Hirabayashi. I am currently a [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow.
+
 I obtained my B.S. degree in Aerospace Engineering from
 [The University of Alabama in Huntsville](https://www.uah.edu/) in 2019.
-
-<!-- I am a [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow since 2022. -->
 
 My current research looks at structural, thermophysical, and dynamical evolutions of
 various objects in the Solar System -- from a few tens of meter small asteroids to
@@ -49,8 +47,8 @@ News
 	<summary>2021</summary>
       <ul>
         <li>July: Presented a poster titled
-            "FINITE ELEMENT MODELING APPROACH THERMOPHYSICAL MODEL TO
-            CHARACTERIZE IRREGULARLY SHAPED BODIES' TEMPERATURE VARIATION" by
+            "Finite Element Modeling Approach Thermophysical Model to
+            Characterize Irregularly Shaped Bodies’ Temperature Variation" by
             <strong>Nakano R.</strong> and Hirabayashi M. at the NASA Exploration
             Science Forum 2021 (<a href="https://lunarscience.arc.nasa.gov/nesfels2021/">NESF2021</a>).
             </li>
@@ -83,8 +81,8 @@ News
         <li>March: <strong>I passed my Qualifying Exam!</strong>
             </li>
         <li>February: Presented a poster titled
-            "FINITE ELEMENT MODELING APPROACH TO CHARACTERIZE TEMPERATURE
-            VARIATIONS OF IRREGULARLY SHAPED BODIES BY ITS ROTATION" by
+            "Finite Element Modeling Approach to Characterize TemperatureVariations
+             of Irregularly Shaped Bodies" by
             <strong>Nakano R.</strong> and Hirabayashi M. at the 52nd
             Lunar and Planetary Science Conference
             (<a href="https://www.hou.usra.edu/meetings/lpsc2021/">LPSC2021</a>).

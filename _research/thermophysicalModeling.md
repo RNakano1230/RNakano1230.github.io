@@ -1,7 +1,7 @@
 ---
-title: "Thermophysical modeling for Yarkovsky and YORP investigations"
+title: "Thermophysical modeling for the Yarkovsky and YORP effect investigations"
 collection: research
 permalink: /research/thermophysicalModeling
-order_number: 2
+order_number: 3
 ---
 TBW...

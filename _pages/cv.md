@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-Click **here** to download my CV!
+Click [here](/files/RNakano_CV_Sept2021.pdf) to download my CV!
 
 
 ## Education
@@ -19,9 +19,7 @@ Click **here** to download my CV!
 
 - 2020: 1st place, [student poster competition](https://sservi.nasa.gov/articles/nesf-student-poster-competition-2020/) at NASA Exploration Science Forum
 
-- 2019 - 2022: Presidential Graduate Research Fellowship (from Auburn Univ.)
-
-- 2019 - 2022: Department of Aerospace Engineering Dean’s Fellowship (from Auburn Univ.)
+- 2019 - 2022: Presidential Graduate Research Fellowship (from Auburn University)
 
 - 2016 - 2018: Undergraduate Super Scholar Transfer Scholarship (from UAHuntsville)
 
