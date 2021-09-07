@@ -14,42 +14,29 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-
 
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+        {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
     </h3>
-
 
     {% if post.post_description %}
         {{post.post_description}}
     {% endif %}
 
     {% if post.image1 %}
-        <img src="{{ post.image1 | prepend: site.baseurl }}" alt="{{ post.title }}" width="125">
-    {% endif %}
-
-    {% if post.image2 %}
-        <img src="{{ post.image2 | prepend: site.baseurl }}" alt="{{ post.title }}" width="125">
-    {% endif %}
-
-    {% if post.image3 %}
-        <img src="{{ post.image3 | prepend: site.baseurl }}" alt="{{ post.title }}" width="125">
+    <p style="text-align:center">
+        <img src="{{ post.image1 | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
+        {% if post.image_wide %}
+            <img src="{{ post.image_wide | prepend: site.baseurl }}" alt="{{ post.title }}" width="400">
+        {% endif %}
+        {% if post.image2 %}
+            <img src="{{ post.image2 | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
+        {% endif %}
+    </p>
     {% endif %}
 
   </article>
