@@ -14,7 +14,7 @@ Click [here](/files/RNakano_CV_Sept2021.pdf) to download my CV!
     * GPA: 3.99/4.00
     * _Summa Cum Laude_
 
-## Awards/Honors/Fellowships
+## Awards/Fellowships
 - 2022 - (2024): Future Investigators in NASA Earth and Space Science and Technology, [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect)
 
 - 2020: 1st place, [student poster competition](https://sservi.nasa.gov/articles/nesf-student-poster-competition-2020/) at NASA Exploration Science Forum

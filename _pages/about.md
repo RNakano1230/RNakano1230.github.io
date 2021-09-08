@@ -9,7 +9,7 @@ redirect_from:
 I am a Ph.D. student in the [Department of Aerospace Engineering](https://eng.auburn.edu/aero/)
 at [Auburn University](http://www.auburn.edu/).
 I am affiliated with the [STAR Lab](http://eng.auburn.edu/~mzh0114/index.html)
-led by Dr. Toshi Hirabayashi. I am currently a [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow.
+led by Dr. Toshi Hirabayashi. I am currently a NASA [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow.
 
 I obtained my B.S. degree in Aerospace Engineering from
 [The University of Alabama in Huntsville](https://www.uah.edu/) in 2019.
