@@ -20,7 +20,7 @@ effects, respectively. These effects play important roles in small bodies' forma
 and evolution processes.
 
 A proper thermophysical modeling is crucial in studying such thermally-induced effects.
-We are thus developing a [thermophysical model](/Software) which solves 3-dimensional heat equation
+We are thus developing a [thermophysical model](/Software) which solves the 3-dimensional heat equation
 via FEM (Finite Element Modeling) approach. We have been applying this model to
 small bodies (e.g., Ryugu, Bennu, KY26) to study their thermal conditions
 and resulting Yarkovsky and YORP effects.
