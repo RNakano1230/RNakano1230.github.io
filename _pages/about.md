@@ -81,7 +81,7 @@ News
         <li>March: <strong>I passed my Qualifying Exam!</strong>
             </li>
         <li>February: Presented a poster titled
-            "Finite Element Modeling Approach to Characterize TemperatureVariations
+            "Finite Element Modeling Approach to Characterize Temperature Variations
              of Irregularly Shaped Bodies" by
             <strong>Nakano R.</strong> and Hirabayashi M. at the 52nd
             Lunar and Planetary Science Conference
