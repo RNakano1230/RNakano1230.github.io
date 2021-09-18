@@ -39,5 +39,17 @@
     </p>
     {% endif %}
 
+    {% if post.image1_structure %}
+    <p style="text-align:center">
+        <img src="{{ post.image1_structure | prepend: site.baseurl }}" alt="{{ post.title }}" width="225" hspace="30">
+        {% if post.image2_structure %}
+            <img src="{{ post.image2_structure | prepend: site.baseurl }}" alt="{{ post.title }}" width="180">
+        {% endif %}
+        {% if post.image3_structure %}
+            <img src="{{ post.image3_structure | prepend: site.baseurl }}" alt="{{ post.title }}" width="220" hspace="5">
+        {% endif %}
+    </p>
+    {% endif %}
+
   </article>
 </div>
