@@ -70,6 +70,7 @@ News
             "Time-Optimal and Fuel-Optimal Trajectories for Asteroid Landing
              via Indirect Optimization" by <strong>Nakano R.</strong>, Taheri E., and Hirabayashi M. to the AIAA SciTech Forum 2022
              (<a href="https://www.aiaa.org/SciTech">SciTech2022</a>).
+             <strong>Accepted for presentation!</strong>
              </li>
         <li>May: Submitted a conference abstract titled
             "Investigation of the YORP effect on asteroid (162173) Ryugu
