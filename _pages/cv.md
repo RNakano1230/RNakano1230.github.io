@@ -33,7 +33,9 @@ Click [here](/files/RNakano_CV_Sept2021.pdf) to download my CV!
 - October 2016 - July 2018: Undergraduate Research Assistant, [Plasma and Electrodynamics Research Lab](https://www.uah.edu/perl), UAHuntsville
 
 ## Outreach
-- September 2019: Aerospace Engineering Department's Open House
+- September 2021: [Aerospace Engineering Department Open House](https://eng.auburn.edu/news/2021/08/auburn-aerospace-engineering-open-house-in-september)
+
+- September 2019: Aerospace Engineering Department Open House
 
 - September 2019: [GRAND Engineering Research Showcase](https://eng.auburn.edu/outreach/k-12/grand/index.html)
 
