@@ -9,15 +9,12 @@ redirect_from:
 I am a Ph.D. student in the [Department of Aerospace Engineering](https://eng.auburn.edu/aero/)
 at [Auburn University](http://www.auburn.edu/).
 I am affiliated with the [STAR Lab](http://eng.auburn.edu/~mzh0114/index.html)
-led by Dr. Toshi Hirabayashi. I am currently a NASA [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow.
-
-I obtained my B.S. degree in Aerospace Engineering from
-[The University of Alabama in Huntsville](https://www.uah.edu/) in 2019.
+led by Dr. Toshi Hirabayashi. I obtained my B.S. degree in Aerospace Engineering from
+[The University of Alabama in Huntsville](https://www.uah.edu/) in 2019. I am currently a NASA [FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={3E72ED7E-1FBD-F815-5A4E-2DA033EF7449}&path=open) fellow.
 
 My current research looks at structural, thermophysical, and dynamical evolutions of
 various objects in the Solar System -- from a few tens of meter small asteroids to
-larger bodies such as the Moon. I am also working on NASA [DART](https://dart.jhuapl.edu/)
-planetary defense mission. My previous research includes development and testing of
+larger bodies such as the Moon. I am also working on NASA's first planetary defense mission, [DART](https://dart.jhuapl.edu/). My previous research includes development and testing of
 electric propulsion devices for small satellites as well as modeling of
 aerodynamics and flight dynamics of small flapping-wing vehicles for Mars exploration.
 

@@ -2,9 +2,9 @@
 title: "Thermophysical modeling for the Yarkovsky and YORP effect investigations"
 collection: research
 permalink: /research/thermophysicalModeling
-image1: /images/research/Ryugu_20k_temp_dist.png
-image_wide: /images/research/Ryugu_20k_maxTemp_dist.png
-order_number: 3
+image1_TPFEM: /images/research/Ryugu_20k_temp_dist.png
+image2_TPFEM_wide: /images/research/Ryugu_20k_maxTemp_dist.png
+order_number: 2
 ---
 ---
 When a surface is heated by the Sun, it reemits the energy as thermal radiation.
@@ -29,6 +29,19 @@ This model is also suitable for studying thermal conditions of local topographic
 features such as craters and boulders.
 
 <p style="text-align:center">
-    <img src="/images/research/Ryugu_20k_temp_dist.gif" width="500"/><br>
+    <img src="/images/research/Ryugu_20k_temp_dist.gif" width="450"/><br>
     Temperature distribution on asteroid (162173) Ryugu
 </p>
+
+---
+<font size="3"> Related publications:</font>
+<font size="3">
+    <ol>
+        <li><strong>Nakano R.</strong> and Hirabayashi M., "Finite element thermophysical model for the Yarkovsky and YORP calculations, insensitive to small topographic effects." <i>AAS Division for Planetary Sciences Meeting</i>, virtual meeting, 2021.
+        </li>
+        <li><strong>Nakano R.</strong> and Hirabayashi M., "Investigation of the YORP effect on asteroid (162173) Ryugu – An application of FEM approach thermophysical model." <i>Europlanet Science Congress</i>, virtual meeting, 2021, EPSC2021-441.
+        </li>
+        <li><strong>Nakano R.</strong> and Hirabayashi M., "Finite Element Modeling Approach to Characterize Temperature Variations of Irregularly Shaped Bodies." <i>52nd Lunar and Planetary Science Conference</i>, virtual meeting, 2021.
+        </li>
+    </ol>
+</font>

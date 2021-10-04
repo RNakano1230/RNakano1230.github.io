@@ -27,14 +27,14 @@
         {{post.post_description}}
     {% endif %}
 
-    {% if post.image1 %}
+    {% if post.image1_TPFEM %}
     <p style="text-align:center">
-        <img src="{{ post.image1 | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
-        {% if post.image_wide %}
-            <img src="{{ post.image_wide | prepend: site.baseurl }}" alt="{{ post.title }}" width="400">
+        <img src="{{ post.image1_TPFEM | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
+        {% if post.image2_TPFEM_wide %}
+            <img src="{{ post.image2_TPFEM_wide | prepend: site.baseurl }}" alt="{{ post.title }}" width="400">
         {% endif %}
-        {% if post.image2 %}
-            <img src="{{ post.image2 | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
+        {% if post.image2_TPFEM %}
+            <img src="{{ post.image2_TPFEM | prepend: site.baseurl }}" alt="{{ post.title }}" width="250">
         {% endif %}
     </p>
     {% endif %}
@@ -47,6 +47,15 @@
         {% endif %}
         {% if post.image3_structure %}
             <img src="{{ post.image3_structure | prepend: site.baseurl }}" alt="{{ post.title }}" width="220" hspace="5">
+        {% endif %}
+    </p>
+    {% endif %}
+
+    {% if post.image1_BYORP %}
+    <p style="text-align:center">
+        <img src="{{ post.image1_BYORP | prepend: site.baseurl }}" alt="{{ post.title }}" width="300">
+        {% if post.image2_BYORP %}
+            <img src="{{ post.image2_BYORP | prepend: site.baseurl }}" alt="{{ post.title }}" width="180">
         {% endif %}
     </p>
     {% endif %}
