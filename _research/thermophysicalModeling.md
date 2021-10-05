@@ -4,7 +4,8 @@ collection: research
 permalink: /research/thermophysicalModeling
 image1_TPFEM: /images/research/Ryugu_20k_temp_dist.png
 image2_TPFEM_wide: /images/research/Ryugu_20k_maxTemp_dist.png
-order_number: 2
+order_number: 3
+date: 2002-01-01 00:00:00
 ---
 ---
 When a surface is heated by the Sun, it reemits the energy as thermal radiation.
@@ -20,18 +21,18 @@ effects, respectively. These effects play important roles in small bodies' forma
 and evolution processes.
 
 A proper thermophysical modeling is crucial in studying such thermally-induced effects.
-We are thus developing a [thermophysical model](/Software) which solves the 3-dimensional heat equation
+Thus, I am developing a [thermophysical model](/Software) which solves the 3-dimensional heat equation
 via FEM (Finite Element Modeling) approach. We have been applying this model to
 small bodies (e.g., Ryugu, Bennu, KY26) to study their thermal conditions
 and resulting Yarkovsky and YORP effects.
 
-This model is also suitable for studying thermal conditions of local topographic
-features such as craters and boulders.
-
 <p style="text-align:center">
-    <img src="/images/research/Ryugu_20k_temp_dist.gif" width="450"/><br>
+    <img src="/images/research/Ryugu_20k_temp_dist.gif" width="425"/><br>
     Temperature distribution on asteroid (162173) Ryugu
 </p>
+
+This model is also suitable for studying thermal conditions of local topographic
+features such as craters and boulders.
 
 ---
 <font size="3"> Related publications:</font>
