@@ -11,7 +11,7 @@ The mutual dynamics of irregularly shaped gravitating bodies is different from t
 
 To study dynamics of binary asteroid systems, I developed a [F2BP simulation package](/software). This model uses a linear Finite Element Model (FEM) shape function and does not require order truncation for the mutual gravity computation. (More details: [Yu et al., 2019](https://link.springer.com/article/10.1007%2Fs10569-019-9930-4))
 
-Using this package, I have been studying asteroid (65803) Didymos system, which is a target asteroid of [DART](https://dart.jhuapl.edu/) mission. For example, combining the knowledge from [structural analysis](/research/structuralAnalysis), I am investigating how shape deformation of Didymos (primary) or Dimorphos (secondary) could affect the mutual dynamics.
+Using this package, I have been studying asteroid (65803) Didymos system, which is a target asteroid for NASA's [DART](https://dart.jhuapl.edu/) mission. For example, combining the knowledge from [structural analysis](/research/structuralAnalysis), I am investigating how shape deformation of Didymos (primary) or Dimorphos (secondary) could affect the mutual dynamics.
 
 <p style="text-align:center">
     <img src="/images/research/Didymos_traj.gif" width="450"/><br>
