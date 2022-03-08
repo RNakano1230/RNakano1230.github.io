@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 Through my research, I develop useful tools for planetary science
-and astrodynamics applications. I make those tools available
-after I publish results in peer-reviewed journals.
+and astrodynamics applications. The tools will be available
+once I publish results in peer-reviewed journals.
 
 ## FEM Approach Full Two-Body Problem Model
 Available soon...

@@ -17,6 +17,14 @@ author_profile: true
 
 ## Conference Proceedings (selected)
 <ol>
+    <li><strong>Nakano R.</strong> and Hirabayashi M., "Dimorphos' reshaping-induced
+        orbital period change after the DART impact."
+        <i>53rd Lunar and Planetary Science Conference</i>, The Woodlands, TX, 2022.
+        </li>
+    <li><strong>Nakano R.</strong> Taheri E., and Hirabayashi M., "Time-Optimal
+        and Fuel-Optimal Trajectories for Asteroid Landing via Indirect Optimization."
+        <i>AIAA SciTech Forum and Exposition</i>, San Diego, CA, 2022.
+        </li>
     <li><strong>Nakano R.</strong> and Hirabayashi M., "Finite element
         thermophysical model for the Yarkovsky and YORP calculations,
         insensitive to small topographic effects."
@@ -37,7 +45,7 @@ author_profile: true
         Irregularly Shaped Bodies."
         <i>52nd Lunar and Planetary Science Conference</i>, virtual meeting, 2021.
         </li>
-    <li><strong>Nakano R.</strong>, Hirabayashi M., and 10 colleagues,
+    <li><strong>Nakano R.</strong>, Hirabayashi M., and 10 authors,
         "Dimorphos' orbital perturbation induced by shape modification of
         Didymos after the DART impact."
         <i>American Geophysical Union Fall Meeting</i>, virtual meeting, 2020, NH037-0004.
