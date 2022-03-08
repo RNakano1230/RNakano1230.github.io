@@ -9,7 +9,7 @@ exploring various engineering techniques.
 
 ## Current Projects
 {% include base_path %}
-{% assign ordered_pages = site.research | sort:"order_number" %}
+{% assign ordered_pages = site.research | sort:"order_number"%}
 {% for post in ordered_pages %}
     {% include archive-research.html %}
 {% endfor %}

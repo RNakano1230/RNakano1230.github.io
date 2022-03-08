@@ -10,4 +10,5 @@ citation: 'Hirabayashi M., <strong>Nakano R.</strong>, Tatsumi E., Walsh K.J.,
           "Spin-driven evolution of asteroids’ top-shapes at fast and slow spins
           as seen from (101955) Bennu and (162173) Ryugu." 2020,
           Icarus, 352, p.113946.'
+order_number: 2
 ---

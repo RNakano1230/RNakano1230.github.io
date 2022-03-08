@@ -6,9 +6,9 @@ author_profile: true
 
 ## Peer-reviewed Journals
 {% include base_path %}
-
+{% assign ordered_pages = site.publications | sort:"order_number" %}
 <ol>
-{% for post in site.publications reversed %}
+{% for post in ordered_pages%}
         <li>
             {% include archive-single.html %}
         </li>
