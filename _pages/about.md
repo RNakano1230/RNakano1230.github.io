@@ -43,7 +43,17 @@ News
 <details open>
     <summary>2022</summary>
         <ul>
-            <li>January: Submitted a journal paper titled "NASA/Double Asteroid Redirection Test (DART): Mutual Orbital Period Change Due to Reshaping in the Near-Earth Binary Asteroid System (65803) Didymos" by <strong>Nakano R.</strong>, and 8 authors to PSJ!
+            <li> March: <strong>Awarded supplemental travel grant </strong> from
+            AAS to attend ASS 53rd Division on Dynamical Astronomy in Manhattan, NY.
+            </li>
+
+            <li> March: Submitted a conference abstract titled "A new binary-YORP
+            effect model combining full two rigid body dynamics and three-dimensional
+            thermophysical evolution" by <strong>Nakano R.</strong> and Hirabayashi M.
+            to ASS 53rd Division on Dynamical Astronomy. <strong>Accepted for in-person presentation!</strong>
+            </li>
+
+            <li>January: Submitted a journal paper titled "NASA/Double Asteroid Redirection Test (DART): Mutual Orbital Period Change Due to Reshaping in the Near-Earth Binary Asteroid System (65803) Didymos" by <strong>Nakano R.</strong> and 8 authors to PSJ!
             </li>
 
             <li>January: Submitted a journal paper titled "Double Asteroid Redirection Test (DART): Structural and dynamic interactions between asteroidal elements of Binary Asteroid (65803) Didymos" by Hirabayashi M. and 13 authors (<strong>Nakano R.</strong>, the 4th author) to PSJ!  
@@ -58,11 +68,11 @@ News
             <a href="https://iopscience.iop.org/article/10.3847/PSJ/ac4031">available</a> online!
             </li>
 
-            <li>January: Submitted a conference abstract "Dimorphos' reshaping-induced orbital period change after the DART impact" by <strong>Nakano R.</strong> and Hirabayashi M. to the 53rd Lunar and Planetary Science Conference (<a href="https://www.hou.usra.edu/meetings/lpsc2022/">LPSC2022</a>), The Woodland, TX.
+            <li>January: Presented a poster titled "Dimorphos' reshaping-induced orbital period change after the DART impact" by <strong>Nakano R.</strong> and Hirabayashi M. at the 53rd Lunar and Planetary Science Conference (<a href="https://www.hou.usra.edu/meetings/lpsc2022/">LPSC2022</a>), The Woodland, TX.
             </li>
         </ul>
 </details>
-<details open>
+<details>
 	<summary>2021</summary>
         <ul>
             <li>December: A journal paper titled "Active Main-Belt Asteroid (6478) Gault - Constraint on Its Cohesive Strength and
