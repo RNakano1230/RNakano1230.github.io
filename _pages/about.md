@@ -44,13 +44,13 @@ News
     <summary>2022</summary>
         <ul>
             <li> March: <strong>Awarded supplemental travel grant </strong> from
-            AAS to attend ASS 53rd Division on Dynamical Astronomy in Manhattan, NY.
+            AAS to attend AAS 53rd Division on Dynamical Astronomy in Manhattan, NY.
             </li>
 
             <li> March: Submitted a conference abstract titled "A new binary-YORP
             effect model combining full two rigid body dynamics and three-dimensional
             thermophysical evolution" by <strong>Nakano R.</strong> and Hirabayashi M.
-            to ASS 53rd Division on Dynamical Astronomy. <strong>Accepted for in-person presentation!</strong>
+            to AAS 53rd Division on Dynamical Astronomy. <strong>Accepted for in-person presentation!</strong>
             </li>
 
             <li>January: Submitted a journal paper titled "NASA/Double Asteroid Redirection Test (DART): Mutual Orbital Period Change Due to Reshaping in the Near-Earth Binary Asteroid System (65803) Didymos" by <strong>Nakano R.</strong> and 8 authors to PSJ!
