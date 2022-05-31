@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I am a Ph.D. student in the [Department of Aerospace Engineering](https://eng.auburn.edu/aero/)
+I am a Ph.D. student in the Department of Aerospace Engineering
 at [Auburn University](http://www.auburn.edu/).
 I am affiliated with the [STAR Lab](http://eng.auburn.edu/~mzh0114/index.html)
 led by Dr. Toshi Hirabayashi. I obtained my B.S. degree in Aerospace Engineering from
