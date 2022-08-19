@@ -8,5 +8,5 @@ link: 'https://iopscience.iop.org/article/10.3847/2041-8213/ab7d36'
 citation: '<strong>Nakano R.</strong> and Hirabayashi M., "Mass-shedding Activities of
            Asteroid (3200) Phaethon Enhanced by Its Rotation."
            2020, The Astrophysical Journal Letters, 892(2), p.L22.'
-order_number: 3
+order_number: 6
 ---

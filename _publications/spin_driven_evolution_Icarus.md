@@ -1,7 +1,7 @@
 ---
 title: "Spin-driven evolution of asteroids’ top-shapes at fast and slow spins as seen from (101955) Bennu and (162173) Ryugu"
 collection: publications
-permalink: /publications/spin_driven_evolution
+permalink: /publications/spin_driven_evolution_Icarus
 venue: 'Icarus'
 link: 'https://www.sciencedirect.com/science/article/pii/S0019103520303201'
 citation: 'Hirabayashi M., <strong>Nakano R.</strong>, Tatsumi E., Walsh K.J.,
@@ -10,5 +10,5 @@ citation: 'Hirabayashi M., <strong>Nakano R.</strong>, Tatsumi E., Walsh K.J.,
           "Spin-driven evolution of asteroids’ top-shapes at fast and slow spins
           as seen from (101955) Bennu and (162173) Ryugu." 2020,
           Icarus, 352, p.113946.'
-order_number: 2
+order_number: 5
 ---
