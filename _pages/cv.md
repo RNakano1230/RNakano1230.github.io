@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-Click [here](/files/RNakano_CV_Aug2022.pdf) to download my CV!
+Click [here](/files/RNakano_CV_Jan2023.pdf) to download my CV!
 
 
 ## Education
